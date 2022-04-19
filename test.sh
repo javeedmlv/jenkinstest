@@ -1,1 +1,1 @@
-echo "Starting at : `date +%Y-%m-%d`
+echo "Starting at :" `date +%Y-%m-%d`
