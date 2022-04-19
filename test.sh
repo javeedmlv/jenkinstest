@@ -1,2 +1,1 @@
-echo "Starting"
-date +"%d-%m-%y"
+echo "Starting" + $(date)
